@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/28 23:54:51.000.995,=C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 23:55:36.000.516,=C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/28 23:55:41.000.768,=C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/06/28 23:55:44.000.535,=C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/06/28 23:55:47.000.238,=C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/06/28 23:59:06.000.897,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\pessoa.pas</Transaction>
+    <Transaction>2023/06/29 00:00:08.000.357,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\nota.pas</Transaction>
+    <Transaction>2023/06/29 00:02:32.000.312,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\formPrinc.dfm</Transaction>
+    <Transaction>2023/06/29 00:02:32.000.312,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\formPrinc.pas</Transaction>
+    <Transaction>2023/06/29 00:04:21.000.412,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\myInterface.pas</Transaction>
+    <Transaction>2023/06/29 00:09:19.000.862,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\factory.pas</Transaction>
+    <Transaction>2023/06/29 00:12:08.000.233,C:\Users\REMOTO\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\Project_Pattern_Abstract_Factory.dproj</Transaction>
+    <Transaction>2023/06/29 22:37:33.124,=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\Unit2.pas</Transaction>
+    <Transaction>2023/06/29 22:41:01.871,C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\FormData.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\Unit2.pas</Transaction>
+    <Transaction>2023/06/29 22:41:01.871,C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\FormData.dfm=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\Unit2.dfm</Transaction>
+    <Transaction>2023/06/29 23:16:38.700,C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\person.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\pessoa.pas</Transaction>
+    <Transaction>2023/06/29 23:16:43.402,C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\order.pas=C:\Users\REMOTO\OneDrive\Área de Trabalho\Projetos Delphi\Padrão Abstract Factory\nota.pas</Transaction>
+  </Transactions>
+</BorlandProject>
